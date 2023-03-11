@@ -7,6 +7,7 @@ if youre using windows , maybe u need to run this:
 ~#Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 
 What to do next in Terminal:
+~#py -m venv Gauss
 ~#.\Gauss\Scripts\activate
 ~#pip3 install numpy
 

@@ -40,7 +40,7 @@ class LinearEquationSolver:
 
 
 # Create an instance of LinearEquationSolver with n = 3
-solver = LinearEquationSolver(4)
+solver = LinearEquationSolver(3)
 
 # Solve the linear equation system
 solver.solve()
